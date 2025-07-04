@@ -1,2 +1,3 @@
 # vscode
-Files for workign with Visual Studio Code
+
+Files for working with Visual Studio Code.
