@@ -1,0 +1,18 @@
+/* Styles for the VS Code Markdown Preview */
+
+.github-markdown-body {
+    font-size: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    color: cornflowerblue;
+}
+h2 {
+    color: burlywood;
+}
+h3 {
+    color: seagreen;
+}
+p {
+    line-height: 125%;
+}
